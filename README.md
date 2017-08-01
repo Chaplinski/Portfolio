@@ -1,4 +1,4 @@
-[Team Treehouse Achievements](https://teamtreehouse.com/scottchaplinski)
+[Team Treehouse Achievements (76)](https://teamtreehouse.com/scottchaplinski)
 
 <h3>CONTENTS</h3>
 
