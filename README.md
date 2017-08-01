@@ -7,7 +7,7 @@ I have contained in this repository 2 letters of recommendation from my former e
 
 **MoveBall** 
 
-This is the result of following introduction instructions on building a game engine in Java. I have edited parts of the code to change the direction of the ball and the window size.
+This is the result of following introductory instructions on building a game engine in Java. I have edited parts of the code to change the direction of the ball and the window size.
 
 
 **Jazzhands**
