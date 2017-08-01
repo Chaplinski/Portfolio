@@ -1,4 +1,5 @@
 [Team Treehouse Achievements (76)](https://teamtreehouse.com/scottchaplinski)
+\
 [LinkedIn Profile](https://www.linkedin.com/in/scott-chaplinski-740862b3/)
 
 <h3>CONTENTS OF PORTFOLIO</h3>
