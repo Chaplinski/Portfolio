@@ -30,37 +30,49 @@ Monkey Business Trivia     Sole Proprietor/Sales Director/Host	Denver, CO	May 20
 •	Developed marketing and business plans which included sales forecasts
 
 KAABOO Del Mar      Group Sales Coordinator  		Denver, CO  	March 2016-September 2016 (seasonal)
+\
 •	Developed new inside sales leads and provided sales support at event
+\
 •	Exceeded event sales goals and targets 
+\
 •	Worked with Sales Genie and Insightly CRMs
+\
 •	Maintained records of sales
+\
 •	Shared successful strategies and successfully implemented shared strategies
 
 Woodchuck Fest/Charleston Squarefest      Founder/Sales Director   Charleston, IL   March 2009-May 2012
+\
 •	Negotiated contracts with 40 bands and 6 venues 4 times annually
+\
 •	Worked with the community to market and sell bulk and individual tickets
+\
 •	Managed online, print, and radio marketing
+\
 •	Hired personnel, security, and audio
 
 Ruffalo CODY     Team Leader/Fundraiser			     Charleston, IL              July 2007-July 2010
+\
 •	Called and engaged past alumni donors and prospective donors
+\
 •	Worked both with and without a script
+\
 •	Input and managed team data daily
 
 
 <h4>EDUCATION</h4>
 
 Lake Land College	Mattoon, IL
-
+\
 Associate in Arts, May 2008
-
+\
 Major: Radio/Television
-
+\
 Certified Radio Marketing Professional
 
 Joliet Junior College	Joliet, IL
-
+\
 Associate of Applied Science, Projected: May 2018
-
+\
 Major: Computer Information Systems
 
