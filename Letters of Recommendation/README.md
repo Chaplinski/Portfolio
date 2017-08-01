@@ -2,4 +2,4 @@ From March 2016 until September 2016 I was given the task of handling group sale
 
 [Chris Racan](https://www.linkedin.com/in/chrisracan/), Senior VP of Business Development, was my direct supervisor. Chris is best reached via e-mail.
 
-[Shawnna Earnest](https://www.linkedin.com/in/shawnnaearnest/), Senior VP of HR, hired me and supervised the department's day to day activities. Shawnna is best reached via phone or e-mail.
+[Shawnna Earnest](https://www.linkedin.com/in/shawnnaearnest/), Senior VP of HR, hired me and supervised the department's day to day activities. Shawnna is best reached via phone or e-mail
