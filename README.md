@@ -1,6 +1,6 @@
 [Team Treehouse Achievements (76)](https://teamtreehouse.com/scottchaplinski)
 
-<h3>CONTENTS</h3>
+<h3>CONTENTS OF PORTFOLIO</h3>
 
 **Letters of Recommendation**
 
