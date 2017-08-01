@@ -1,12 +1,14 @@
-:-------------:Scott A. Chaplinski
+<p align="center">Scott A. Chaplinski</p>
 624 Jeremy Drive • Bourbonnais IL 60914 • (815) 592-1911 • scott.chaplinski@gmail.com
 
-SOFTWARE AND WEB DEVELOPMENT EXPERIENCE 
+SOFTWARE AND WEB DEVELOPMENT EXPERIENCE
+ 
 •	Self-taught Java developer since 2016
 •	Some experience with: HTML, CSS, JavaScript/jQuery, Python, Android, Salesforce, Apache, UNIX, MySQL
 •	Computer skills: Microsoft Suite, Google Sheets, Adobe Audition
 
 PAST WORK EXPERIENCE
+
 Monkey Business Trivia	Sole Proprietor/Sales Director/Host	Denver, CO	May 2011-June 2017
 •	Developed new client opportunities via cold-calling and local networking
 •	Communicated with players and teams weekly via MailChimp
@@ -37,12 +39,18 @@ Ruffalo CODY          Team Leader/Fundraiser			     Charleston, IL              
 
 
 EDUCATION
+
 Lake Land College	Mattoon, IL
+
 Associate in Arts, May 2008
+
 Major: Radio/Television
+
 Certified Radio Marketing Professional
 
 Joliet Junior College	Joliet, IL
+
 Associate of Applied Science, Projected: May 2018
+
 Major: Computer Information Systems
 
