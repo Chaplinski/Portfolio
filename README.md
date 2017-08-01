@@ -1,6 +1,8 @@
+[Team Treehouse Achievements](https://teamtreehouse.com/scottchaplinski)
+
 <h3>CONTENTS</h3>
 
-**Letter of Recommendation**
+**Letters of Recommendation**
 
 I have contained in this repository 2 letters of recommendation from my former employers at [KAABOO Del Mar](https://www.kaaboodelmar.com/) - San Diego's second largest event. I was given the task of handling group sales. All sales goals were met, as the event sold out of passes in August. This was a one-season contract which I fulfilled beyond expectations.
 
