@@ -1,3 +1,5 @@
+[Score of 122(Proficient) in Java on Pluralsight](http://imgur.com/a/D8xGk)
+\
 [Team Treehouse Achievements (76)](https://teamtreehouse.com/scottchaplinski)
 \
 [LinkedIn Profile](https://www.linkedin.com/in/scott-chaplinski-740862b3/)
