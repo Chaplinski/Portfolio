@@ -20,7 +20,7 @@ Monkey Business Trivia     Sole Proprietor/Sales Director/Host	Denver, CO	May 20
 •	Researched and wrote trivia
 \
 •	Researched, wrote, and created new trivia presentations using PowerPoint
-\ 
+\
 •	Developed marketing materials
 \
 •	Set-up audio and visual networking
