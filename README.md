@@ -1,5 +1,5 @@
 <h1><p align="center">Scott A. Chaplinski</p></h1>
-<p align="center"><h3>624 Jeremy Drive • Bourbonnais IL 60914 • (815) 592-1911 • scott.chaplinski@gmail.com</h3></p>
+<h3><p align="center">624 Jeremy Drive • Bourbonnais IL 60914 • (815) 592-1911 • scott.chaplinski@gmail.com</p></h3>
 
 SOFTWARE AND WEB DEVELOPMENT EXPERIENCE
  
