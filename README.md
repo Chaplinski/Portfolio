@@ -1,11 +1,12 @@
-<h2><p align="center">Scott A. Chaplinski</p>
-<h3><p align="center">624 Jeremy Drive • Bourbonnais IL 60914 • (815) 592-1911 • scott.chaplinski@gmail.com</p></h3></h2>
+<h2><p align="center">Scott A. Chaplinski</p></h2>
+<h3><p align="center">624 Jeremy Drive • Bourbonnais IL 60914 • (815) 592-1911 • scott.chaplinski@gmail.com</p></h3>
 
 <h4>SOFTWARE AND WEB DEVELOPMENT EXPERIENCE</h4>
  
-    *	Self-taught Java developer since 2016
-*•	Some experience with: HTML, CSS, JavaScript/jQuery, Python, Android, Salesforce, Apache, UNIX, MySQL
-*•	Computer skills: Microsoft Suite, Google Sheets, Adobe Audition
+•	Self-taught Java developer since 2016
+\
+•	Some experience with: HTML, CSS, JavaScript/jQuery, Python, Android, Salesforce, Apache, UNIX, MySQL
+•	Computer skills: Microsoft Suite, Google Sheets, Adobe Audition
 
 <h4>PAST WORK EXPERIENCE</h4>
 
