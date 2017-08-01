@@ -3,10 +3,8 @@
 
 <h4>SOFTWARE AND WEB DEVELOPMENT EXPERIENCE</h4>
  
-•	Self-taught Java developer since 2016
-
+•	Self-taught Java developer since 2016</n>
 •	Some experience with: HTML, CSS, JavaScript/jQuery, Python, Android, Salesforce, Apache, UNIX, MySQL
-
 •	Computer skills: Microsoft Suite, Google Sheets, Adobe Audition
 
 <h4>PAST WORK EXPERIENCE</h4>
