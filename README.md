@@ -22,4 +22,4 @@ This is a variant of the popular game FizzBuzz where I inserted line breaks, cha
 
 **Resume**
 
-I have also included a PDF of my resume. 
+I have also included a PDF of my resume
