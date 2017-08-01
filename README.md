@@ -1,3 +1,9 @@
+.markdown-preview {
+  h1 { font-size: 1em; }
+  h2 { font-size: 0.8em; }
+  h3 { font-size: 0.6em; }
+}
+
 <h2><p align="center">Scott A. Chaplinski</p>
 <h3><p align="center">624 Jeremy Drive • Bourbonnais IL 60914 • (815) 592-1911 • scott.chaplinski@gmail.com</p></h3></h2>
 
