@@ -6,18 +6,26 @@
 •	Self-taught Java developer since 2016
 \
 •	Some experience with: HTML, CSS, JavaScript/jQuery, Python, Android, Salesforce, Apache, UNIX, MySQL
+\
 •	Computer skills: Microsoft Suite, Google Sheets, Adobe Audition
 
 <h4>PAST WORK EXPERIENCE</h4>
 
 <h5>Monkey Business Trivia</h5>     Sole Proprietor/Sales Director/Host	Denver, CO	May 2011-June 2017
 •	Developed new client opportunities via cold-calling and local networking
+\
 •	Communicated with players and teams weekly via MailChimp
+\
 •	Researched and wrote trivia
-•	Researched, wrote, and created new trivia presentations using PowerPoint 
+\
+•	Researched, wrote, and created new trivia presentations using PowerPoint
+\ 
 •	Developed marketing materials
+\
 •	Set-up audio and visual networking
+\
 •	Used Highrise (CRM) to track clients and prospects
+\
 •	Developed marketing and business plans which included sales forecasts
 
 KAABOO Del Mar      Group Sales Coordinator  		Denver, CO  	March 2016-September 2016 (seasonal)
