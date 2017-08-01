@@ -11,15 +11,13 @@
 
 <h4>PAST WORK EXPERIENCE</h4>
 
-<h5>Monkey Business Trivia</h5>     Sole Proprietor/Sales Director/Host	Denver, CO	May 2011-June 2017
+Monkey Business Trivia     Sole Proprietor/Sales Director/Host	Denver, CO	May 2011-June 2017
 \
 
 •	Developed new client opportunities via cold-calling and local networking
 \
-
 •	Communicated with players and teams weekly via MailChimp
 \
-
 •	Researched and wrote trivia
 \
 •	Researched, wrote, and created new trivia presentations using PowerPoint
