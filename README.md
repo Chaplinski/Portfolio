@@ -12,7 +12,6 @@
 <h4>PAST WORK EXPERIENCE</h4>
 
 Monkey Business Trivia     Sole Proprietor/Sales Director/Host	Denver, CO	May 2011-June 2017
-\
 
 •	Developed new client opportunities via cold-calling and local networking
 \
