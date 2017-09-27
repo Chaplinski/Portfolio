@@ -1,0 +1,80 @@
+import java.util.Scanner;
+
+public class Mirror {
+
+    public static int SIZE;
+
+    public static void main(String[] args) {
+        System.out.println("Enter a number: ");
+        Scanner sc=new Scanner(System.in);
+        int result = sc.nextInt();
+        SIZE = result;
+        line();
+        top();
+        bottom();
+        line();
+    }
+
+    // Prints the line at the top and bottom of the figure
+    public static void line() {
+        System.out.print("#");
+
+        for (int i = 1; i <= SIZE * 4; i++) {
+            System.out.print("=");
+        }
+        System.out.println("#");
+    }
+
+
+    // Prints the top half of the mirror
+    public static void top() {
+        for (int line = 1; line <= SIZE; line++) {
+            System.out.print("|");
+
+
+            for (int i = 1; i <= line * -2 + SIZE * 2; i++) {
+                System.out.print(" ");
+            }
+
+            System.out.print("<>");
+
+            for (int i = 1; i <= line * 4 - 4; i++) {
+                System.out.print("*");
+            }
+
+            System.out.print("<>");
+
+            for (int i = 1; i <= line * -2 +  SIZE * 2; i++) {
+                System.out.print(" ");
+            }
+
+            System.out.println("|");
+        }
+    }
+
+    // Prints the bottom half of the mirror
+    public static void bottom() {
+        // Just run the line numbers in reverse!
+        for (int line = SIZE; line >= 1; line--) {
+            System.out.print("|");
+
+            for (int i = 1; i <= line * -2 +  SIZE * 2; i++) {
+                System.out.print(" ");
+            }
+
+            System.out.print("<>");
+
+            for (int i = 1; i <= line * 4 - 4; i++) {
+                System.out.print("*");
+            }
+
+            System.out.print("<>");
+
+            for (int i = 1; i <= line * -2 +  SIZE * 2; i++) {
+                System.out.print(" ");
+            }
+
+            System.out.println("|");
+        }
+    }
+}
